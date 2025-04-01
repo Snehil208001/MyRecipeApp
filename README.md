@@ -63,12 +63,6 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 **Contributing Summary:** Encourages community contributions through pull requests and issue reporting.
 
-## 📄 License
 
-[License Type]
-
-**License Summary:** Specifies the project's licensing information.
-
----
 
 Enjoy exploring delicious recipes with MyRecipeApp! 🍽️
